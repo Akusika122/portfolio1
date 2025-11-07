@@ -99,7 +99,7 @@ function Contact() {
                 <SelectContent>
                   <SelectGroup>
                     <SelectLabel>Select a Service</SelectLabel>
-                    <SelectItem value='Website Development'>Website Development</SelectItem>
+                    <SelectItem value='Website Development'>Generative AI & Prompt Engineering</SelectItem>
                     <SelectItem value='UI/UX Design'>UI/UX Design</SelectItem>
                     <SelectItem value='Design'>Design</SelectItem>
                     <SelectItem value='Mobile App Development'>Mobile App Development</SelectItem>
