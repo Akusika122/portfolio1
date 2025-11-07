@@ -23,7 +23,7 @@ import {
 
 const about = {
   title: 'About me',
-  description: `Detail-oriented and growth-driven UI/UX Designer with 2+ years of experience creating intuitive, user-centered web and mobile interfaces. Skilled in wireframing, prototyping, and usability testing with tools like Figma and Miro. Strong foundation in accessibility and design systems, complemented by basic programming skills in Python, HTML, and CSS. Seeking to apply creativity, design thinking, and collaboration to deliver impactful digital experiences in a forward-thinking team.`,
+  description: `Detail-oriented and growth-driven UI/UX Designer with 2+ years of experience creating intuitive, user-centered web and mobile interfaces. Skilled in wireframing, prototyping, and usability testing with tools like Figma and Miro. Strong foundation in accessibility and design systems, complemented by basic programming skills in Python, HTML, and CSS. Seeking to apply creativity, design thinking, and collaboration to deliver impactful digital experiences in a forward-thinking team. You can reach me at akusikafortune77@gmail.com`,
 };
 
 const skills = {
