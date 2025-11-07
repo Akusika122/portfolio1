@@ -15,8 +15,8 @@ const leagueSpartan = League_Spartan({
  });
 
 export const metadata: Metadata = {
-  title: "isaac",
-  description: "a portfolio of isaac semanu",
+  title: "Fortune Semanu",
+  description: "A portfolio of Fortune Semanu",
 };
 
 export const viewport: Viewport = {
