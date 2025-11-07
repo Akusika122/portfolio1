@@ -16,28 +16,28 @@ const projects = [
   {
     num: '01',
     category: 'UI/UX',
-    title: 'Faith & Prosperity',
-    description: 'Faith & Prosperity is a scripture-based mobile application designed to inspire and empower users through faith-centered content — including books, magazines, daily quotes, and short devotionals.',
+    title: 'Travel Stay Finder',
+    description: 'A modern, minimal travel booking interface where users can search for hotels, view details, check reviews, and book rooms easily.',
    stack: [
     {
       name: 'Figma'
     },
    ],
-   image: '/assets/images/Image.png',
+   image: '/assets/images/hotel.jpg',
    github: 'https://github.com/ike-nanino/streamverse',
    live: 'https://streamversee.vercel.app/'
   },
   {
     num: '02',
     category: 'UI/Ux',
-    title: `CompensAid`,
-    description: 'CompensAid is an AI consumer Justice platform that helps users to file complaint and join ongoing cases',
+    title: `Home Automation App`,
+    description: 'A dark-themed smart home interface combining real-time controls and environment info.',
    stack: [
     {
       name: 'Figma'
     }
    ],
-   image: '/assets/images/fig.png',
+   image: '/assets/images/weather.jpg',
    github: 'https://github.com/ike-nanino/wrayskitchen',
    live: 'https://wrayskitchen.vercel.app/'
   },
@@ -147,7 +147,7 @@ function Work() {
               </ul>
               <div className="border border-white/20"></div>
 
-              <div className='flex items-center gap-4'>
+              {/* <div className='flex items-center gap-4'>
                 <Link href={project.live}>
                   <TooltipProvider delayDuration={100}>
                     <Tooltip>
@@ -172,7 +172,7 @@ function Work() {
                     </Tooltip>
                   </TooltipProvider>
                 </Link>
-              </div>
+              </div> */}
             </div>
           </div>
           <div className='w-full xl:w-[50%]'>
