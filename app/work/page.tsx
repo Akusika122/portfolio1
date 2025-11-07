@@ -23,7 +23,7 @@ const projects = [
       name: 'Figma'
     },
    ],
-   image: '/assets/images/phone.png',
+   image: '/assets/images/Image.png',
    github: 'https://github.com/ike-nanino/streamverse',
    live: 'https://streamversee.vercel.app/'
   },
