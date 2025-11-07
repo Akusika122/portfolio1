@@ -34,7 +34,7 @@ function Photo() {
                 />
             </div>
         </motion.div>
-
+{/* 
         <motion.svg 
          className="w-[300px] h-[300px] xl:w-[368px] xl:h-[368px]"
          fill='transparent'
@@ -61,7 +61,7 @@ function Photo() {
               repeatType: 'reverse',
             }}
           />
-        </motion.svg>
+        </motion.svg> */}
 
         </motion.div>
     </div>

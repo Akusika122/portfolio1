@@ -15,102 +15,90 @@ import WorkSliderButton from '@/components/WorkSliderButton'
 const projects = [
   {
     num: '01',
-    category: 'Frontend',
-    title: 'Streamverse',
-    description: 'Movie database app built with Next js and typescript. Powered with the TMdB API.',
+    category: 'UI/UX',
+    title: 'Faith & Prosperity',
+    description: 'Faith & Prosperity is a scripture-based mobile application designed to inspire and empower users through faith-centered content — including books, magazines, daily quotes, and short devotionals.',
    stack: [
     {
-      name: 'Next Js'
-    },
-    {
-      name: 'Typescript'
-    },
-    {
-      name: 'Tailwind'
+      name: 'Figma'
     },
    ],
-   image: '/assets/images/streamverse.png',
+   image: '/assets/images/phone.png',
    github: 'https://github.com/ike-nanino/streamverse',
    live: 'https://streamversee.vercel.app/'
   },
   {
     num: '02',
-    category: 'Frontend',
-    title: `Wray's Kitchen`,
-    description: 'A simple restaurant app',
+    category: 'UI/Ux',
+    title: `CompensAid`,
+    description: 'CompensAid is an AI consumer Justice platform that helps users to file complaint and join ongoing cases',
    stack: [
     {
-      name: 'Html 5'
-    },
-    {
-      name: 'Css 3'
-    },
-    {
-      name: 'Javascript'
-    },
+      name: 'Figma'
+    }
    ],
-   image: '/assets/images/wray.png',
+   image: '/assets/images/fig.png',
    github: 'https://github.com/ike-nanino/wrayskitchen',
    live: 'https://wrayskitchen.vercel.app/'
   },
-  {
-    num: '03',
-    category: 'Frontend',
-    title: 'Contacts',
-    description: 'Contacts app developed using react fundamentals including hooks, components and conditional rendering. inspired by Nii Aryeh',
-   stack: [
-    {
-      name: 'React.js'
-    },
-    {
-      name: 'Tailwind'
-    },
+  // {
+  //   num: '03',
+  //   category: 'Frontend',
+  //   title: 'Contacts',
+  //   description: 'Contacts app developed using react fundamentals including hooks, components and conditional rendering. inspired by Nii Aryeh',
+  //  stack: [
+  //   {
+  //     name: 'React.js'
+  //   },
+  //   {
+  //     name: 'Tailwind'
+  //   },
   
-   ],
-   image: '/assets/images/contacts.png',
-   github: 'https://github.com/ike-nanino/contacts-app',
-   live: 'https://contacts-app-beige-delta.vercel.app/'
-  },
-  {
-    num: '04',
-    category: 'Frontend',
-    title: 'LegalEcho',
-    description: 'A sleek, Tailwind CSS-powered website for a law firm, offering a polished user experience. Includes a contact form for client inquiries, ensuring easy communication. Optimized for responsiveness and accessibility.',
-   stack: [
-    {
-      name: 'Next.js'
-    },
-    {
-      name: 'Typescript'
-    },
-    {
-      name: 'Tailwind'
-    },
-   ],
-   image: '/assets/images/legalecho.png',
-   github: 'https://github.com/ike-nanino/legalecho',
-   live: 'https://legalecho.vercel.app/'
-  },
-  {
-    num: '05',
-    category: 'Fullstack',
-    title: 'Medical Care',
-    description: 'A healthcare platform that streamlines patient registration, appointment scheduling, and medical records. Appwrite for backend',
-   stack: [
-    {
-      name: 'Next.js'
-    },
-    {
-      name: 'Typescript'
-    },
-    {
-      name: 'Tailwind'
-    },
-   ],
-   image: '/assets/images/medicalcenter.png',
-   github: 'https://github.com/ike-nanino/e-medicalcenter',
-   live: 'https://e-medicalcenter.vercel.app/'
-  },
+  //  ],
+  //  image: '/assets/images/contacts.png',
+  //  github: 'https://github.com/ike-nanino/contacts-app',
+  //  live: 'https://contacts-app-beige-delta.vercel.app/'
+  // },
+  // {
+  //   num: '04',
+  //   category: 'Frontend',
+  //   title: 'LegalEcho',
+  //   description: 'A sleek, Tailwind CSS-powered website for a law firm, offering a polished user experience. Includes a contact form for client inquiries, ensuring easy communication. Optimized for responsiveness and accessibility.',
+  //  stack: [
+  //   {
+  //     name: 'Next.js'
+  //   },
+  //   {
+  //     name: 'Typescript'
+  //   },
+  //   {
+  //     name: 'Tailwind'
+  //   },
+  //  ],
+  //  image: '/assets/images/legalecho.png',
+  //  github: 'https://github.com/ike-nanino/legalecho',
+  //  live: 'https://legalecho.vercel.app/'
+  // },
+  // {
+  //   num: '05',
+  //   category: 'Fullstack',
+  //   title: 'Medical Care',
+  //   description: 'A healthcare platform that streamlines patient registration, appointment scheduling, and medical records. Appwrite for backend',
+  //  stack: [
+  //   {
+  //     name: 'Next.js'
+  //   },
+  //   {
+  //     name: 'Typescript'
+  //   },
+  //   {
+  //     name: 'Tailwind'
+  //   },
+  //  ],
+  //  image: '/assets/images/medicalcenter.png',
+  //  github: 'https://github.com/ike-nanino/e-medicalcenter',
+  //  live: 'https://e-medicalcenter.vercel.app/'
+  // },
 ]
 
 
