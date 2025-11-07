@@ -9,8 +9,8 @@ import { BsArrowDownRight } from 'react-icons/bs'
 const services = [
   {
     num: '01',
-    title: 'Web Development',
-    description: 'From concept to deployment, offering complete web solutions that balance aesthetics with performance. Specializing in responsive design and SEO-friendly practices, I deliver websites that are visually engaging, fast-loading, and optimized for both users and search engines.',
+    title: 'Generative AI & Prompt Engineering',
+    description: `I specialize in generative AI and prompt engineering, creating intelligent, human-centered interactions between people and AI systems. I combine a background in UI/UX design with a deep understanding of AI behavior, user intent, and conversational design, allowing me to craft prompts that not only solve problems efficiently but also deliver engaging, meaningful experiences.`,
     href: '/contact'
   },
   {
