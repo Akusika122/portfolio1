@@ -23,13 +23,7 @@ import {
 
 const about = {
   title: 'About me',
-  description: `Hello, I’m Isaac Semanu, a passionate and results-driven Frontend Developer from Accra, Ghana. With over 3 years of experience in front-end technologies like HTML, CSS, and JavaScript, alongside 2+ years specializing in React.js and more than a year working with Next.js and React Native, I’ve honed my expertise in building dynamic and efficient web applications.
-
-I have a deep understanding of modern frameworks, including React, Next.js and Webflow, and I consistently seek to craft innovative solutions that elevate user experience. My dedication to web development is complemented by a creative flair for UI/UX design and complete brand identity and visual communication, utilizing industry-leading tools such as Figma and Adobe Photoshop.
-
-Beyond coding, I’m deeply interested in continuous learning and personal growth. You’ll often find me traveling, listening to podcasts, or staying active through regular workouts.
-
-If you’re looking for a developer with a strong eye for design and a commitment to excellence, I’d love to collaborate. Feel free to reach out at ikesemanu@gmail.com.`,
+  description: `Detail-oriented and growth-driven UI/UX Designer with 2+ years of experience creating intuitive, user-centered web and mobile interfaces. Skilled in wireframing, prototyping, and usability testing with tools like Figma and Miro. Strong foundation in accessibility and design systems, complemented by basic programming skills in Python, HTML, and CSS. Seeking to apply creativity, design thinking, and collaboration to deliver impactful digital experiences in a forward-thinking team.`,
 };
 
 const skills = {
@@ -49,40 +43,12 @@ const skills = {
       name: 'Javascript',
     },
     {
-      icon: <FaReact />,
-      name: 'React.js',
-    },
-    {
-      icon: <SiNextdotjs />,
-      name: 'Next.js',
-    },
-    {
-      icon: <SiTailwindcss />,
-      name: 'Tailwind CSS',
-    },
-    {
-      icon: <SiTypescript />,
-      name: 'Typescript',
-    },
-    {
       icon: <FaFigma />,
       name: 'Figma',
     },
     {
       icon: <SiAdobephotoshop />,
       name: 'Adobe PhotoShop',
-    },
-    {
-      icon: <FaWordpress />,
-      name: 'Wordpress',
-    },
-    {
-      icon: <SiWebflow />,
-      name: 'Webflow',
-    },
-    {
-      icon: <FaReact />,
-      name: 'React Native',
     },
   ]
 }

@@ -51,7 +51,7 @@ function MobileNav() {
         </button>
         </SheetTrigger>
         <SheetContent side='left' className='flex flex-col'>
-            <div className='mt-24 mb-28 text-center text-2xl'> Isaac </div>
+            <div className='mt-24 mb-28 text-center text-2xl'> Fortune </div>
 
             <nav className="flex flex-col justify-center items-center gap-8">
                 {links.map((link, index) => {
