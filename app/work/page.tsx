@@ -29,7 +29,7 @@ const projects = [
   },
   {
     num: '02',
-    category: 'UI/Ux',
+    category: 'UI/UX',
     title: `Home Automation App`,
     description: 'A dark-themed smart home interface combining real-time controls and environment info.',
    stack: [
@@ -41,44 +41,34 @@ const projects = [
    github: 'https://github.com/ike-nanino/wrayskitchen',
    live: 'https://wrayskitchen.vercel.app/'
   },
-  // {
-  //   num: '03',
-  //   category: 'Frontend',
-  //   title: 'Contacts',
-  //   description: 'Contacts app developed using react fundamentals including hooks, components and conditional rendering. inspired by Nii Aryeh',
-  //  stack: [
-  //   {
-  //     name: 'React.js'
-  //   },
-  //   {
-  //     name: 'Tailwind'
-  //   },
-  
-  //  ],
-  //  image: '/assets/images/contacts.png',
-  //  github: 'https://github.com/ike-nanino/contacts-app',
-  //  live: 'https://contacts-app-beige-delta.vercel.app/'
-  // },
-  // {
-  //   num: '04',
-  //   category: 'Frontend',
-  //   title: 'LegalEcho',
-  //   description: 'A sleek, Tailwind CSS-powered website for a law firm, offering a polished user experience. Includes a contact form for client inquiries, ensuring easy communication. Optimized for responsiveness and accessibility.',
-  //  stack: [
-  //   {
-  //     name: 'Next.js'
-  //   },
-  //   {
-  //     name: 'Typescript'
-  //   },
-  //   {
-  //     name: 'Tailwind'
-  //   },
-  //  ],
-  //  image: '/assets/images/legalecho.png',
-  //  github: 'https://github.com/ike-nanino/legalecho',
-  //  live: 'https://legalecho.vercel.app/'
-  // },
+  {
+    num: '03',
+    category: 'UI/UX',
+    title: 'Restaurant',
+    description: 'Contacts app developed using react fundamentals including hooks, components and conditional rendering. inspired by Nii Aryeh',
+   stack: [
+    {
+      name: 'Figma'
+    }
+   ],
+   image: '/assets/images/kfcc.jpg',
+   github: 'https://github.com/ike-nanino/contacts-app',
+   live: 'https://contacts-app-beige-delta.vercel.app/'
+  },
+  {
+    num: '04',
+    category: 'UI/UX',
+    title: 'The Bible App',
+    description: 'A sleek, Tailwind CSS-powered website for a law firm, offering a polished user experience. Includes a contact form for client inquiries, ensuring easy communication. Optimized for responsiveness and accessibility.',
+   stack: [
+    {
+      name: 'Figma'
+    }
+   ],
+   image: '/assets/images/biblee.jpg',
+   github: 'https://github.com/ike-nanino/legalecho',
+   live: 'https://legalecho.vercel.app/'
+  },
   // {
   //   num: '05',
   //   category: 'Fullstack',
