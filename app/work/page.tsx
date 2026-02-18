@@ -15,12 +15,15 @@ import WorkSliderButton from '@/components/WorkSliderButton'
 const projects = [
   {
     num: '01',
-    category: 'UI/UX',
+    category: 'Travel Stay Finder',
     title: 'Travel Stay Finder',
     description: 'A modern, minimal travel booking interface where users can search for hotels, view details, check reviews, and book rooms easily.',
    stack: [
     {
       name: 'Figma'
+    },
+    {
+      name: 'Adobe Photoshop'
     },
    ],
    image: '/assets/images/hotel.jpg',
@@ -29,12 +32,15 @@ const projects = [
   },
   {
     num: '02',
-    category: 'UI/UX',
+    category: 'Home Automation',
     title: `Home Automation App`,
     description: 'A dark-themed smart home interface combining real-time controls and environment info.',
    stack: [
     {
       name: 'Figma'
+    },
+    {
+      name: 'Adobe Photoshop'
     }
    ],
    image: '/assets/images/weather.jpg',
@@ -43,12 +49,15 @@ const projects = [
   },
   {
     num: '03',
-    category: 'UI/UX',
+    category: 'Mangrove',
     title: 'Restaurant',
-    description: 'Contacts app developed using react fundamentals including hooks, components and conditional rendering. inspired by Nii Aryeh',
+    description: 'Mangrove is a seamless food delivery app that connects users to a wide range of restaurants, making it easy to browse menus, place orders, and enjoy fast delivery from the comfort of their location. Designed for convenience and speed, it offers a smooth, Bolt Food–style experience that simplifies mealtime with reliable service and an intuitive interface.',
    stack: [
     {
       name: 'Figma'
+    },
+    {
+      name: 'Adobe Photoshop'
     }
    ],
    image: '/assets/images/kfcc.jpg',
@@ -57,12 +66,15 @@ const projects = [
   },
   {
     num: '04',
-    category: 'UI/UX',
+    category: 'Faith & Prosperity',
     title: 'The Bible App',
-    description: 'A sleek, Tailwind CSS-powered website for a law firm, offering a polished user experience. Includes a contact form for client inquiries, ensuring easy communication. Optimized for responsiveness and accessibility.',
+    description: 'Faith and Prosperity is a Bible app and companion book designed to make Scripture easily accessible and spiritually engaging. Users can read and instantly search any book of the Bible while receiving daily inspirational quotes that nurture faith and personal growth. The app blends simplicity, powerful navigation, and uplifting content to create a meaningful, everyday devotional experience.',
    stack: [
     {
       name: 'Figma'
+    },
+    {
+      name: 'Adobe Photoshop'
     }
    ],
    image: '/assets/images/biblee.jpg',
